@@ -32,6 +32,8 @@ Special Routes:
 
 Connecting Exits  is the main way to score points in Railroad Ink. At the end of the game, each set of Exits that are connected to each other via the same Network of Routes is worth a number of points determined by the number of Exits connected together, as shown on the Network Values on your Board.
 
+![image](https://github.com/doniniramos/railroad-like-game/assets/31694530/5b0e29c6-bcf2-469e-9433-8acb610b81e2)
+
 > Note 1: Overpasses only allow you to make two of your Networks cross each other, but they don't create a connection between the two.
 > Note 2: You can use Stations to connect Railway Routes and Highway Routes to each other.
 
